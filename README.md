@@ -1,5 +1,9 @@
 # CMPM-146-Game-AI-Final-Project
 
+## Demo
+
+[![Video Title](https://img.youtube.com/vi/y2gxm0guUM4/0.jpg)](https://www.youtube.com/watch?v=y2gxm0guUM4)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
